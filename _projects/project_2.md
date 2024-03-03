@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Fermionic compact stars
-description: M.Sc. Thesis
-img: img/glyphicons-halflings-white.png
+title: Fermionic compact stars222
+description: M.Sc. Thesis22
+img: img/glyphicons-halflings.png
 importance: 2
 category: projects
 ---
