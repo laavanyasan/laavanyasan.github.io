@@ -288,10 +288,10 @@ pre.prettyprint {
 	font-family: 'Montserrat', Helvetica, sans-serif;
 }
 
-/* figure,
+figure,
 img {
 	max-width: 90vw;
-} */
+}
 
 .card {
 	background-color: var(--global-card-bg-color);
@@ -344,7 +344,7 @@ img {
 
 	.grid-sizer,
 	.grid-item {
-		width: 200px;
+		width: 250px;
 		margin-bottom: 10px;
 	}
 
