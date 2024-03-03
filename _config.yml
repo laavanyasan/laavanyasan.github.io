@@ -15,3 +15,11 @@ include: ["_pages"]
 
 enable_masonry: true # enables automatic project cards arangement
 enable_project_categories: true # enables categorization of projects into
+
+jquery:
+  version: "3.6.0"
+  integrity: "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+
+masonry:
+  version: "4.2.2"
+  integrity: "sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI="
