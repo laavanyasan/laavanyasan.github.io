@@ -2,8 +2,8 @@
 layout: page
 title: Fermionic compact stars
 description: M.Sc. Thesis
-img: img/glyphicons-halflings-white.png
-importance: 2
+img: img/glyphicons-halflings.png
+importance: 1
 category: projects
 ---
 
@@ -17,13 +17,13 @@ Further repulsive interactions, not connected to the fermionic nature of the sta
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/500 MeV.png" title="mr curve 500 MeV" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="img/IMG_0756 (2).jpg" title="mr curve 500 MeV" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Mmax.png" title="Mmax" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="img/IMG_0756.jpg" title="Mmax" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/mi.png" title="interactions" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="img/IMG_0770.jpg" title="interactions" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

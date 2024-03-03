@@ -1,33 +1,27 @@
 ---
 layout: page
-title: Fermionic compact stars222
-description: M.Sc. Thesis22
-img: img/glyphicons-halflings.png
+title: cataclysmic variables
+description: an observational foray
+img: img/IMG_3456 (2).jpg
 importance: 2
 category: projects
 ---
 
-Compact stars achieve hydrostatic equilibirum very differently to main sequence stars. A white dwarf, for example, supports itself by the fermionic pressure exerted by electrons. White dwarfs are composed of degenerate electrons. And degenerate electrons obey the Pauli exclusion principle. To put it simply, fermions don't like to be pushed together. But that's exactly what gravity tries to do. And so, we have a balance - between the inward push of gravity and the outward push of the repulsive Fermi interaction.
+Cataclysmic variables (CVs) are binary systems consisting of an accreting white dwarf (AWD) along with a mass-transferring, Roche-lobe filling secondary star. CVs can be both magnetic and non-magnetic, with the classification depending on whether or not the magnetic field of the white dwarf is enough to control the accretion flow. If the accretion process continues till the white dwarf reaches close to the Chandrasekhar limit, the process may lead to a runaway carbon fusion and trigger a Type Ia supernova explosion which destroys the white dwarf.
 
-The stabilisation against gravity is not limitless. As we move to heavier white dwarfs, a higher Fermi pressure is required to stabilise the star. Higher Fermi pressures imply higher Fermi velocities. This increase is only possible until we hit the cosmic speed limit. The speed of light. Once the electrons reach (close to) the speed of light, Fermi pressure can no longer support the star against gravity. This maximum limit upto which a white dwarf supports itself through the Fermi pressure of its constituent electrons is the famous <b> Chandrasekhar limit </b>. 
+There are a few anomalous magnetic CVs that are classified as asynchronous polars. An asynchronous polar shows all the physical properties of a polar system but with a slight mismatch (< 1%) in their spin and orbit period. One of the most common theories for the origin of this asynchronicity is that the system was previously synced up until a nova explosion broke up this synchronicity by changing the white dwarf’s rotation period. One such source, BY Cam, was studied in this project.
 
-The arguments made above can be generalised to any fermion, not just electrons. Theoretically, we can have a whole class of fermionic compact stars, characterised by the mass of the fermion that makes up the star. Such stars would have their own "Chandrasekhar"-type limiting mass. Through this work, we generated stars from different free fermion gas equations of state, and we were able to establish an inverse relationship between the limiting mass supported by the star, and the mass of the fermion making up the star. Linking a microscopic scale with a macroscopic one.
+BY Cam is an asynchronous polar system, located at celestial coordinates 𝛼 = 05: 43: 48.8015, 𝛿 = 60: 51: 31.37, at a distance of 264.5 pc. It has a slight mismatch between its spin and orbit periods – with a spin period of 𝑃𝑠𝑝𝑖𝑛 = 11963.04 𝑠 and orbit period 𝑃𝑜𝑟𝑏𝑖𝑡 = 12074.64 𝑠.The data analyzed in this project was taken from a ~ 30 ks NuSTAR observation made between 12th and 13th November 2018. Analysis was done using imaging, spectral, and timing techniques using toold from NASA'S high energy astrophysics software, HEASOFT.
 
-Further repulsive interactions, not connected to the fermionic nature of the star, can be introduced. In our work, we considered the causal limit of repulsive interactions - the Zeldovich interaction. In doing so, we were able to link a further scale to the two masses mentioned earlier. The scale of the mediator vector boson responsible for the interactions. 
+Timing analysis, done using epoch folding, indicated a one-pole accretion in the system. Spectral analysis was done by modelling the NuSTAR X-Ray spectrum using various physical processes - including post-shock plasma cooling through brehmsstrahlung, compton reflection, and ISM absorption. Alternate cooling models, like mekal, were also used. Through the spectral analysis, we obtained a lower bound on the white dwarf mass as close to 0.6 Msol. The flux and luminosity of the source were also estimated. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/500 MeV.png" title="mr curve 500 MeV" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Mmax.png" title="Mmax" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/mi.png" title="interactions" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="img/Lavanya.jpg" title="spectral" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-  Some of the results from this line of work. On the left, a typical mass-radius curve for stars made of 500 MeV free fermion gas. The center picture establishes the link between the maximum "limiting" mass and the mass of the constituents of the star. The rightmost picture shows a variation of the mass-radius curve with different interaction strengths.
+    One of the results from spectral fitting. Plasma cooling is modelled here by "mekal" emission, with compton reflection and ISM absorption included.
 </div>
 
-<i> This is a brief description of work I did as part of my M.Sc. thesis, at NIT Tiruchirappalli, under the supervision of Dr. Somnath Mukhopadhyay. All figures used here are generated using Python 3.7.6. </i>
+<i> This is a brief description of work I did as part of IISc's Astronomical Techniques course, under the supervision of Prof. Vikram Rana. Spectral fitting graph generated using HEASOFT. CV accretion diagram courtesy of NASA. </i>
