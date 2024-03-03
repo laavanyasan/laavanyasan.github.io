@@ -1,2 +1,15 @@
 permalink: /notes/:year/:month/:day/:title
 markdown: kramdown
+
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+enable_masonry: true # enables automatic project cards arangement
+enable_project_categories:  true   # enables categorization of projects into
