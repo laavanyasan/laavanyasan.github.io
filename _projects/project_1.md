@@ -2,7 +2,7 @@
 layout: page
 title: Gene regulatory elements in PCOS susceptibility loci
 description: manuscript in preparation
-img: img/IMG_3456 (2).jpg
+img: img/website-pcos-project1.jpg
 importance: 1
 category: projects
 ---
