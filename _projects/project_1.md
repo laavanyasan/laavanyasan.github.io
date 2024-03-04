@@ -6,8 +6,9 @@ img: img/IMG_3456 (2).jpg
 importance: 1
 category: projects
 ---
+Polycystic Ovary Syndrome (PCOS) is one of the most common disorders of reproductive age menstruators with prevalence rates of 5% to 15% depending on the diagnostic criteria applied. Genetic factors are a major contributor to PCOS and twin studies estimate that the narrow-sense heritability of PCOS is ~79%. There are 30 genomic loci that are associated with increased PCOS risk.
 
-
+The goal of this study is to systematically evaluate the effects of non-coding genomic regions associated with PCOS risk on gene regulatory element activity. While previous studies have identified non-coding genetic variation associated with PCOS risk, there is a gap in addressing the functional effects of genetic variants and regulatory elements impacting PCOS phenotypes. We identified gene regulatory mechanisms that help explain genetic association with PCOS in the GATA4, FSHB and DENND1A loci. We based those findings  using a combination of high throughput reporter assays, CRISPR-based epigenome editing, and genetic association analysis from PCOS case and control populations. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
