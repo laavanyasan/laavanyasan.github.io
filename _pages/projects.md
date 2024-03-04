@@ -1,23 +1,18 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /projects/
-description: Trying to summarise the work I do!
+description: Summary of the research I have worked on!
 nav: true
 nav_order: 1
 display_categories: [projects]
 horizontal: false
 ---
 
-<b>What are compact stars?</b>
+<b>How do genomes work?</b>
 
-Stars have a life cycle, living and dying based on how long they can push back against gravity. Gravity always acts inwards - wanting to collapse the star. This inward force of gravity has to be balanced by some sort of outward push. This is hydrostatic equilibrium.
-
-"Main sequence" stars like the Sun achieve this through nuclear fusion. But fusion can only get us so far. Beyond iron, fusion is endothermic and the star can no longer stabilise itself against gravity. 
-
-What happens next to the star is determined by its mass. A massive enough star is collapsed completely by gravity - this is when we get a <i>black hole</i>. Less massive stars can still achieve hydrostatic equilibrium - these end up as <i>white dwarfs</i> and <i>neutron stars</i>. 
-
-These are the compact stars - the end-stages of a star's life. My research is focussed on this class of objects - and this page collects (semi-regularly) updated summaries of said work.
+One of the most beautiful and significantly challenging aspects in biology is understanding the complexity of the genome, and how it functions or dysfunctions. I have spent my research career working with an interdisciplinary team of scientists, engineers and clinicans on different projects connected by the central idea on how the different aspects of genome compaction and non-coding regulatory elements function.
+My dissertation work has largely focused on the non-coding gene regulatory contribution to a polycytsic ovary syndrome (PCOS), which is a complex genetic disease affecting up to 15% of menstruating people. 
 
 <!-- pages/projects.md -->
 <div class="projects">
