@@ -11,17 +11,17 @@ By combining the ability to manipulate gene expression with the capacity to meas
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="img/project-hcr-1.JPG" title="epigenome editing of DENND1A locus in H295R" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="img/project-hcr-1-resize.JPG" title="epigenome editing of DENND1A locus in H295R" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="img/project-hcr-2.JPG" title="dexamethasone stiumlation of A549 cells" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="img/project-hcr-2-resize.JPG" title="dexamethasone stiumlation of A549 cells" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="img/project-hcr-3.JPG" title="dexamethasone stiumlation of A549 cells" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="img/project-hcr-3-resize.JPG" title="dexamethasone stiumlation of A549 cells" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
